@@ -1,0 +1,21 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NLP_KarakterdenNumarayaDonusum
+build_property.RootNamespace = NLP_KarakterdenNumarayaDonusum
+build_property.ProjectDir = C:\Users\Eren MUTLU\source\repos\NLP-KarakterdenNumarayaDonusum\NLP-KarakterdenNumarayaDonusum\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Eren MUTLU\source\repos\NLP-KarakterdenNumarayaDonusum\NLP-KarakterdenNumarayaDonusum
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Eren MUTLU/source/repos/NLP-KarakterdenNumarayaDonusum/NLP-KarakterdenNumarayaDonusum/Views/Input/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5wdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
